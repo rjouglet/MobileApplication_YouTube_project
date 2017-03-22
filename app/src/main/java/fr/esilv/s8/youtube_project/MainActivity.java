@@ -6,8 +6,6 @@ import android.os.Handler;
 import android.os.Message;
 import android.view.View;
 
-import com.blundell.tut.R;
-
 public class MainActivity extends Activity {
     private VideoListView listView;
 
